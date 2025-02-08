@@ -118,7 +118,7 @@
 
   "plus": {
     "version": "0",
-    "mentionLineColor": "#7d52ff",
+    "mentionLineColor": "#5025fc",
     "customOverlays": true,
     "iconpack": "rosiecord-plumpy",
     "icons": {
