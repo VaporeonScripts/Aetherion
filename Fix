@@ -119,7 +119,7 @@
   "plus": {
     "version": "0",
     "customOverlays": true,
-    "iconpack": "materialtwotone",
+    "iconpack": "rosiecord-plumpy",
     "icons": {
       "ic_new_pins": "#634fff",
       "StatusMobileOnline": "#5aeda1",
